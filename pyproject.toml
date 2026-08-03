@@ -1,0 +1,14 @@
+[project]
+name = "myproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "certifi>=2026.7.22",
+    "dotenv>=0.9.9",
+    "gradio>=4.44.1",
+    "openai>=2.2.0",
+    "pip-system-certs>=4.0",
+    "python-dotenv>=1.0.1",
+]
